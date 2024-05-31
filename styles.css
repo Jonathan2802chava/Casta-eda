@@ -1,0 +1,110 @@
+body{
+    background-color: #302D2D;
+}
+.BarraPrincipal{
+    top: 0;
+    list-style: none;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    position: sticky;
+}
+.BarraPrincipal li{
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+}
+.BarraPrincipal li a{
+    padding: 30px;
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+.BarraPrincipal li a:hover{
+    background: gray;
+}
+.Subtitulo{
+    background-color: black;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0%;
+}
+p{
+    background-color: white;
+    border-radius: 20px;
+    padding: 25px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 5px;
+}
+.imagen{
+    margin-left: 350px;
+    margin-right: 350px;
+    align-items: center;
+    align-content: center;
+}
+.Contacto{
+    top: 0;
+    list-style: none;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    position:static;
+    margin-top: 0px;
+}
+.Contacto li{
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+}
+.Contacto li a{
+    padding: 30px;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.Contacto li a:hover{
+    background: gray;
+}
+.Menu{
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    list-style: none;
+}
+.Menu li{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 400px;
+    margin: 10px;
+}
+.input-group {
+    position: relative;
+}
+.input{
+    border:solid 1.5px white;
+    border-radius: 7px;
+    background:none;
+    padding: 15px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.Boton{
+    border:solid 1.5px white;
+    border-radius: 7px;
+    background:none;
+    padding: 15px;
+    font-size: 18px;
+    font-size: 18px;
+    color: aliceblue;
+}
